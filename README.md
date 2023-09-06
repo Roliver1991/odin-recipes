@@ -1,0 +1,1 @@
+This project is to focus on the building blocks of HTML. Learning commands and how to use git properly. This is a small website about recipes to show what I've learned in HTML so far.
